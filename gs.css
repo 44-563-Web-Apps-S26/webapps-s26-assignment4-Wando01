@@ -30,6 +30,9 @@
     font-size: 20;
     color:black;
 }
+.name:hover {
+    text-shadow: 2px 2px 5px red;
+}
 
 .boatswain {
     color: brown;
@@ -71,3 +74,4 @@ table {
 tr:nth-child(even){
     background-color: mistyrose;
 }
+
