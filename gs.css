@@ -58,3 +58,16 @@
 .cousins_aunts {
     color: lime;
 }
+/* using borders, colors, text alignment, and row stripes and apply it to the table.
+3)	Use padding and margins to make it look good. */
+table {
+    border: 1px solid black;
+    color: crimson;
+    text-align: center;
+    padding: 10px;
+}
+
+
+tr:nth-child(even){
+    background-color: mistyrose;
+}
