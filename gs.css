@@ -31,21 +31,30 @@
     color:black;
 }
 
-.fiametta {
+.boatswain {
     color: brown;
 }
-.gullia {
+.buttercup {
     color: blue;
 }
-.vittoria {
+.ralph {
     color: blueviolet;
 }
-.contadine {
+.captain {
     color: cadetblue;
 }
+
+.joseph {
+    color:green;
+}
+
 .chorus {
     color: cyan;
 }
-.girls {
+.all {
     color: pink;
+}
+
+.cousins_aunts {
+    color: lime;
 }
