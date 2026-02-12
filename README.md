@@ -2,4 +2,4 @@
 # WebApps-S26-Assignment-4
 A practice assignment for HTML with CSS
 
-website Hosted at: file:///C:/Users/s563917/Desktop/webapps-repos/webapps-s26-assignment4-Wando01/opera.html
+website Hosted at: https://44-563-web-apps-s26.github.io/webapps-s26-assignment4-Wando01/
